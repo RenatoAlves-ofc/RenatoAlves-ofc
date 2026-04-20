@@ -1,71 +1,73 @@
 <div align="center">
-  
-  <h1>⚡ RENATO | FULLSTACK ELITE 3.0 ⚡</h1>
-  <p><strong>Sistemas de Alta Performance | Interfaces Imersivas | Vibecoding</strong></p>
 
-  <img src="https://img.shields.io/badge/Focus-Fullstack_Systems-00FF41?style=for-the-badge&logoColor=050505&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Aesthetic-Cyber_Industrial-00FF41?style=for-the-badge&logoColor=050505&labelColor=050505" />
-  <img src="https://img.shields.io/badge/Environment-Pure_Dark_Mode-00FF41?style=for-the-badge&logoColor=050505&labelColor=050505" />
+  <h1><font color="#7AA2F7">⚡ RENATO | FULLSTACK ELITE 3.0 ⚡</font></h1>
+  <p align="center">
+    <strong><font color="#88C0D0">Vibecoding • Modern Systems • Performance Web</font></strong>
+  </p>
+
+  <img src="https://img.shields.io/badge/Focus-Fullstack_Systems-88C0D0?style=for-the-badge&logoColor=22272E&labelColor=22272E" alt="Focus" />
+  <img src="https://img.shields.io/badge/Aesthetic-Nord_Hybrid-7AA2F7?style=for-the-badge&logoColor=22272E&labelColor=22272E" alt="Aesthetic" />
+  <img src="https://img.shields.io/badge/Status-Innovation_Mode-BB9AF7?style=for-the-badge&logoColor=22272E&labelColor=22272E" alt="Status" />
 
 </div>
 
 ---
 
-### 🌐 Sobre / Terminal Context
-Estudante de TI focado em programação lógica e arquitetura de sistemas Fullstack. Minha abordagem combina a precisão da engenharia com a fluidez do "vibecoding", priorizando performance web e experiências visuais imersivas através de scrollytelling.
+### 🌐 System Overview / Contexto
+Estudante de TI focado em arquitetura de sistemas e experiências digitais de alto nível. Unindo a precisão da lógica ao "vibecoding", desenvolvo interfaces que priorizam a clareza visual e a performance.
 
-- 🛠️ Atualmente otimizando o **Portfólio Elite 3.0** (Next.js 14 + Framer Motion).
-- 🚀 Foco em automação de workflows e engenharia de prompts.
-- 🎨 Design System baseado em contrastes extremos: `#050505` & `#00FF41`.
+- 🛠️ **Arquitetura:** Fullstack com Next.js 14 e animações fluidas.
+- 🚀 **Performance:** Workflows automatizados e engenharia de prompts.
+- 🎨 **Design:** Minimalismo moderno baseado em tons de azul ártico e contrastes neon suaves.
 
 ---
 
-### 🛠️ Tech Stack / Digital Toolkit
+### 🛠️ Digital Toolkit (Nord Style)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Next.js_14-050505?style=flat-square&logo=next.dot-js&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/React-050505?style=flat-square&logo=react&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Framer_Motion-050505?style=flat-square&logo=framer&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/HTML5_Canvas-050505?style=flat-square&logo=html5&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Node.js-050505?style=flat-square&logo=node.js&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Next.js_14-2E3440?style=flat-square&logo=next.dot-js&logoColor=88C0D0" />
+  <img src="https://img.shields.io/badge/React-2E3440?style=flat-square&logo=react&logoColor=88C0D0" />
+  <img src="https://img.shields.io/badge/TypeScript-2E3440?style=flat-square&logo=typescript&logoColor=88C0D0" />
+  <img src="https://img.shields.io/badge/Framer_Motion-2E3440?style=flat-square&logo=framer&logoColor=BB9AF7" />
+  <img src="https://img.shields.io/badge/Node.js-2E3440?style=flat-square&logo=node.js&logoColor=88C0D0" />
+  <img src="https://img.shields.io/badge/Cisco_Infrastructure-2E3440?style=flat-square&logo=cisco&logoColor=7AA2F7" />
 </div>
 
 ---
 
-### 🏅 Certificações Cisco / Infrastructure Badges
+### 🏅 Cisco Certified / Infraestrutura
 <div align="left">
-  <img src="https://img.shields.io/badge/Cisco_Certified-Network_Specialist-00FF41?style=for-the-badge&logo=cisco&logoColor=050505&labelColor=00FF41" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity-00FF41?style=for-the-badge&logo=cisco&logoColor=050505&labelColor=00FF41" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Specialist-7AA2F7?style=for-the-badge&logo=cisco&logoColor=22272E&labelColor=7AA2F7" />
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity-BB9AF7?style=for-the-badge&logo=cisco&logoColor=22272E&labelColor=BB9AF7" />
 </div>
 
 ---
 
-### 📊 System Analytics (Real-time)
+### 📊 Real-time System Metrics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&bg_color=22272e&title_color=7aa2f7&text_color=88c0d0&icon_color=bb9af7&border_color=3b4252&hide_border=false" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO]&show_icons=true&theme=tokyonight&bg_color=050505&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&theme=tokyonight&bg_color=050505&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF41&hide_border=false" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USUARIO]&layout=compact&bg_color=22272e&title_color=7aa2f7&text_color=88c0d0&icon_color=bb9af7&border_color=3b4252&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO]&theme=tokyonight&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=00FF41&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO]&background=22272e&ring=7aa2f7&fire=bb9af7&currStreakLabel=88c0d0&sideNums=88c0d0&sideLabels=88c0d0&dates=88c0d0&border=3b4252&hide_border=false" />
 </div>
 
 ---
 
-### 🧪 Projetos em Destaque / Labs
+### 🧪 Selected Labs / Projetos
 
-- **[Portfólio Elite 3.0]**: Landing page imersiva utilizando Next.js e animações de scroll avançadas.
-- **[Finance Vision Tool]**: Automação via Google Apps Script para visualização de juros compostos.
-- **[Prompt Engineering Framework]**: Estruturas de agentes automatizados para fluxos de desenvolvimento.
+* **Portfólio Elite 3.0**: Interface imersiva de alta fidelidade técnica.
+* **Finance Analysis**: Automação de dados financeiros com Apps Script.
+* **System Automation**: Engenharia de prompts aplicada ao desenvolvimento ágil.
 
 ---
 
 <div align="center">
-  <p><i>"Simplifique o complexo. Direto ao ponto."</i></p>
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF41&border=00FF41" />
+  <p><i>"A simplicidade é o último grau da sofisticação."</i></p>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-2E3440?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&border=7AA2F7" />
+  </a>
 </div>
